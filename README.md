@@ -50,20 +50,22 @@ Saída esperada: todos os testes de `tests/test_cliente.py`, `tests/test_descont
 
 ## Organização das pastas
 
+```
 projeto-testes/
 ├── src/
-│ ├── init.py
-│ ├── cliente.py
-│ ├── pedido.py
-│ └── desconto.py
+│   ├── __init__.py
+│   ├── cliente.py
+│   ├── pedido.py
+│   └── desconto.py
 ├── tests/
-│ ├── init.py
-│ ├── test_cliente.py
-│ ├── test_pedido.py
-│ └── test_desconto.py
+│   ├── __init__.py
+│   ├── test_cliente.py
+│   ├── test_pedido.py
+│   └── test_desconto.py
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+```
 
 ## Testes automatizados
 
