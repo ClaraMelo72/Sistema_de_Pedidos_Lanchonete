@@ -1,4 +1,4 @@
-# Controle de Pedidos - Lanchonete
+# Sistema de Pedidos - Lanchonete
 
 ## Sobre o projeto
 
